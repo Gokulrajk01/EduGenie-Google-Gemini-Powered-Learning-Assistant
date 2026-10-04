@@ -102,7 +102,7 @@ http://127.0.0.1:8000
 
 ```json
 {
-  "text": "Explain the Pythagoras theorem."
+  "text": "Explain photosynthesis in simple words."
 }
 ```
 
